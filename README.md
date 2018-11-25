@@ -1,9 +1,7 @@
-# psychic_game
+# psychic_game  https://dinhdothuy.github.io/psychic_game/
 Psychic Game (Basic)
 
 The app randomly picks a letter, and the user has to guess which letter the app chose. 
-
-https://dinhdothuy.github.io/psychic_game/
 
 Put the following text on your page:
 
